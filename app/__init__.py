@@ -1,0 +1,1 @@
+"""Wallet Balance application package."""
